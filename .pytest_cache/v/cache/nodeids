@@ -1,0 +1,14 @@
+[
+  "testfunctions.py::test_check_missing_col",
+  "testfunctions.py::test_find_missing_row",
+  "testfunctions.py::test_common_row_missing",
+  "testfunctions.py::test_fill_funding",
+  "testfunctions.py::test_fill_sub_agency",
+  "testfunctions.py::test_fill_single_val_col",
+  "testfunctions.py::test_fill_missing_year",
+  "testfunctions.py::test_growth_rate",
+  "testfunctions.py::test_add_growth_per",
+  "testfunctions.py::test_just_label_encode",
+  "testfunctions.py::test_show_uni_plots",
+  "testfunctions.py::test_get_mutual_info_score"
+]
